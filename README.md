@@ -3,7 +3,7 @@
 Este é um **Gerador de Frases Estoicas**, desenvolvido com **HTML, CSS e JavaScript**, utilizando a [Stoic Quotes API](https://stoic-quotes.com/) para obter frases inspiradoras dos grandes filósofos estoicos, como **Sêneca, Epicteto e Marco Aurélio**.
 
   
-🔗 [Demonstração Online](https://pedro-rios66.github.io/stoic-quotes-generator) <!-- Substitua pelo link real -->
+🔗 [Demonstração Online](https://pedro-rios66.github.io/STOIC-QUOTE-GENERATOR/) 
 
 ---
 
@@ -16,7 +16,7 @@ Este é um **Gerador de Frases Estoicas**, desenvolvido com **HTML, CSS e JavaSc
 
 ## 🚀 **Demonstração**
 Você pode testar o projeto diretamente pelo navegador no **GitHub Pages**:  
-🔗 [https://pedro-rios66.github.io/stoic-quotes-generator](https://pedro-rios66.github.io/stoic-quotes-generator)  
+🔗 [https://pedro-rios66.github.io/STOIC-QUOTE-GENERATOR/](https://pedro-rios66.github.io/STOIC-QUOTE-GENERATOR/)  
 
 Ou rodar localmente seguindo as instruções abaixo.
 
